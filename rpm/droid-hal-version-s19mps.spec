@@ -3,7 +3,7 @@
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Reeder
-%define device_pretty S19 Max Pro S
+%define device_pretty Jolla C2
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
